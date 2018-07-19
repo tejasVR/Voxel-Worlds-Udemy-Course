@@ -1,0 +1,19 @@
+What's up Everyone!
+I hope you find these C4D Materials and Textures useful.
+All i ask in return is for you to have a Great Day! Enjoy!!
+Subscribe to my channel for More! (youtube.com/FTDuBDesigns)
+(Materials are from the Minecraft Default Terrain png)
+
+"How to Install the C4D LIB4D File"
+---------------------------------
+Right click your C4D desktop Icon and "Open file location"
+Go to "Library"
+then to "Browser"
+Then Drag and Drop the LIB4D File into in there...That's it!
+            "or"
+Go to your Computer Program Files
+Find your Maxon Folder and open it
+go to "Library"
+then to "Browser"
+Then Drag and Drop the LIB4D File into there.
+
