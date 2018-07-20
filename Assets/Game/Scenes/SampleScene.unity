@@ -307,10 +307,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cae8428e757d544b93526392f884cd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  chunkX: 32
+  chunkY: 32
+  chunkZ: 32
   cubeMaterial: {fileID: 2100000, guid: fc1ccb38dd219774284ab06e7b838fda, type: 2}
-  xWorldLength: 4
-  yWorldLength: 4
-  zWorldLength: 4
 --- !u!4 &733166324
 Transform:
   m_ObjectHideFlags: 0
